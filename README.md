@@ -4,4 +4,4 @@ AltSchool Second Semester Exam Project
 Github Portfolio
 
 
-Live URL(Firebase): [Github Portfolio](https://https://exam-project-github-portfolio.web.app/)
+Live URL(Firebase): [Github Portfolio](https://exam-project-github-portfolio.web.app/)
